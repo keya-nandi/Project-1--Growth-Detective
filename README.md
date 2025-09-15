@@ -10,7 +10,7 @@
 NOTE: This project runs fully in **Google Colab** using R.
 
 ### 1. Open the Notebook
-- Open: [Google Colab Link](https://colab.research.google.com/drive/19Uhs0IsJyaLhCB9I3SpQnNzov4q6Vj0Z?usp=sharing) OR click on the .ipynb file above.
+- Open: [Google Colab Link](https://colab.research.google.com/drive/19Uhs0IsJyaLhCB9I3SpQnNzov4q6Vj0Z?usp=sharing) OR click on the .ipynb file above and click on "OPEN IN COLAB" button on the top left.
 
 ### 2. Set Runtime to R
 - In Colab, go to the menu bar: **Runtime → Change runtime type**  
